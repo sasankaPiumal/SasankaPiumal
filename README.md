@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sasankaPiumal/SasankaPiumal/blob/main/bg%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Sasanka Piumal</h1>
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
